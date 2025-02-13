@@ -6,7 +6,7 @@
 # User-specific files
 *.rsuser
 *.suo
-*.user
+#*.user
 *.userosscache
 *.sln.docstates
 
@@ -351,3 +351,4 @@ MigrationBackup/
 
 #  ====================== custom ======================
 !windows/SDL2
+# 忽略 Visual Studio 的解决方案文件配置
